@@ -1,7 +1,4 @@
-import model.Kontak;
-import model.KontakDAO;
-import java.sql.SQLException;
-import java.util.List;
+
 private KontakDAO contactDAO;
 public KontakController() {
 contactDAO = new KontakDAO();
